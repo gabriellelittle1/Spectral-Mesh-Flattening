@@ -12,3 +12,9 @@ Check 3 Texture
 
 Check 4 Texture 
 <a href="https://www.vecteezy.com/free-vector/checkered-pattern">Checkered Pattern Vectors by Vecteezy</a>
+
+
+Potential Extensions:
+
+How to cut a "watertight" mesh?
+How to achieve free boundary?
