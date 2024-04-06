@@ -20,3 +20,10 @@ Potential Extensions:
 
 How to cut a "watertight" mesh?
 How to achieve free boundary?
+
+
+Useful links: 
+
+https://www.medien.ifi.lmu.de/lehre/ws2021/gp/slides/gp-ws2021-04-param.pdf
+doi:10.1016/S0167-8396(03)00002-5
+
