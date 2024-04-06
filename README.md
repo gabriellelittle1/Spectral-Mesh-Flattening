@@ -14,7 +14,8 @@ Horse: https://free3d.com/3d-model/horsehead-v3--43341.html
 
 Rhino: https://free3d.com/3d-model/rhinohead-v1--571328.html
 
-Face: 
+Face: https://sketchfab.com/3d-models/face-mesh-wael-tsar-2a344a540fc2426c95ac6176b91164d7
+
 
 Potential Extensions:
 
