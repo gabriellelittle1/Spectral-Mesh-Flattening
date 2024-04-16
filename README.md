@@ -26,7 +26,7 @@ Ear: https://free3d.com/3d-model/ear-v1--113169.html
 
 Skull: https://free3d.com/3d-model/skull-v3--785914.html
 
-Eiffel Tower: https://free3d.com/3d-model/-eiffel-tower-v1--470573.html
+Hand: https://free3d.com/3d-model/hand-v3--902450.html
 
 Teapot:
 
